@@ -9,9 +9,6 @@ Projet académique – Classification de critiques de films avec Naive Bayes (un
 
 ## Contenu
 - `notebooks/` : expérimentation et analyse
-- `src/` : scripts pour entraînement & évaluation
-- `data/sample_reviews.csv` : petit dataset simulé pour démo
-- `reports/figures/` : matrice de confusion, wordclouds
 
 ## Résultats
 - Accuracy améliorée avec les **bigrammes**
